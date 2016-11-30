@@ -14,7 +14,6 @@ public class CatAndDogs {
         for (int i = 0; i < cats.size(); i++) {
             ((Cat)cats.elementAt(i)).print();
         }
-        System.out.println("hello");
     }
 }
 class Cat{
